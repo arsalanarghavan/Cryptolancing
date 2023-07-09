@@ -4,7 +4,7 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="/" class="logo">
                         <img src="{{asset('img/lamp.png')}}" alt="" width="55" height="55">
                     </a>
                     <!-- ***** Logo End ***** -->

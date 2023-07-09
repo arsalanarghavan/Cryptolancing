@@ -11,7 +11,7 @@
             </x-tabmenu>
             <div class="tab-content">
                 <div class=" tab-pane active show" id="filter-jobs">
-                    @include('gigs.creategig.gig')
+                    @include('Gigs.creategig.gig')
                 </div>
             </div>
         </div>
